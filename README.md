@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=checkmate2412&label=Profile%20views&color=0e75b6&style=flat" alt="checkmate2412" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Bash Scripting**
 
 - 💬 Ask me about **Flutter, Java, IT Support**
 
