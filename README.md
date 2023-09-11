@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo G. Comploma Jr.</h1>
 <h3 align="center">An aspiring Flutter Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=checkmate2412&label=Profile%20views&color=0e75b6&style=flat" alt="checkmate2412" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=checkmate2412&label=Profile%20views&color=0e75b6&style=flat" alt="checkmate24121" /> </p>
 
 - 🌱 I’m currently learning **Flutter** and **Bash Scripting**
 
